@@ -1,0 +1,10 @@
+#heading{
+    font-size: 15px;
+    box-shadow: 3px crimson;
+}
+
+canvas{
+ box-shadow: 4px cyan;
+ padding: 3px;
+ margin: 0px;
+}
